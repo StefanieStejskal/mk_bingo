@@ -1,0 +1,20 @@
+// app global css in SCSS form
+.markrei-container {
+  margin: auto;
+  padding: 0 16px;
+  max-width: 1056px;
+  width: calc(100% - 32px);
+
+  &__page {
+    margin-top: 64px;
+    padding-bottom: 64px;
+  }
+}
+
+.markrei-logo {
+  max-width: 250px;
+}
+
+.markrei-btn {
+  margin: 24px 0;
+}
